@@ -8,8 +8,8 @@
 </head>
 <body>
 	<form action="login.action" method="post">
-		<input type="text" name="user.uname"/>
-		<input type="password" name="user.upwd"/>
+		用户名：<input type="text" name="user.uname"/>
+		密码：<input type="password" name="user.upwd"/>
 		<input type="submit"/>
 	</form>
 </body>
